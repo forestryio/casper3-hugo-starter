@@ -6,7 +6,7 @@ enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 languageCode = "en"
 paginate = 3
-theme = "casper3"
+theme = "github.com/jonathanjanssens/hugo-casper3"
 title = "Hugo Themes"
 [[menu.main]]
 identifier = "about"
